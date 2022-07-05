@@ -25,24 +25,26 @@
 Android MW Command Cheet Sheet
 - Silent    ━━━━━ ***AM Silent***
 - Normal    ━━━━━ ***AM Normal***
-- Wifi On   ━━━━━ ***AM Silent***
-- Wifi Off  ━━━━━ *** ***
-- BLuetooth ━━━━━ On *** ***
-- Bluetooth ━━━━━ Off *** ***
-- Flash On  ━━━━━ *** ***
-- Flash Off ━━━━━ *** ***
-- Wifiname  ━━━━━ *** ***
-- Gps       ━━━━━ *** ***
-- Ip        ━━━━━ *** ***
-- Toast     ━━━━━ *** *** 
-- Notification ━━━━━ *** ***
-- Sms       ━━━━━ *** *** 
-- Sound     ━━━━━ *** ***
-- Layout    ━━━━━ *** ***
-- Wallpaper ━━━━━ *** *** </br>
+- Wifi On   ━━━━━ ***AM Wifi On***
+- Wifi Off  ━━━━━ ***AM Wifi Off***
+- Bluetooth On ━━━━━  ***AM Bluetooth On***
+- Bluetooth Off ━━━━━  ***AM Bluetooth Off***
+- Flash On  ━━━━━ ***AM Flash On***
+- Flash Off ━━━━━ ***Am Flash Off***
+- Wifiname  ━━━━━ ***AM Wifiname***
+- Gps       ━━━━━ ***AM Gps***
+- Ip        ━━━━━ ***AM Ip***
+- Toast     ━━━━━ ***AM Toast@x@message*** 
+- Notification ━━━━━ ***AM Noti@x@title@x@message***
+- Sms       ━━━━━ ***AM Sms@x@number@x@message*** 
+- Sound     ━━━━━ ***AM Sound***
+- Layout    ━━━━━ ***AM Layout***
+- Wallpaper ━━━━━ ***AM Wallpaper*** </br>
 
 **Rooted Required**
-- Shutdown  ━━━━━  *** ***
-- Reboot    ━━━━━ *** ***
+- Shutdown  ━━━━━ ***AM Shut***
+- Reboot    ━━━━━ ***AM Boot***
 
 ------------------------------------------
+
+Credits to : ***SMSRAT***/***SMS INTERCEPTOR***
