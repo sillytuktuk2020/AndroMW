@@ -1,11 +1,11 @@
 # **AndroMW**
 
 
-Android Application can perform task without Internet Connection 
-<b>* 1
-<b>* 2
-<b>* 3
-<b>* 4
+Android Application can perform task without Internet Connection </br>
+<b>* 1 </br>
+<b>* 2 </br>
+<b>* 3 </br>
+<b>- 4 </br>
 
 ------------------------------------------
 Android MW Command Cheet Sheet
