@@ -40,7 +40,7 @@ Android MW Command Cheet Sheet
 - Sound     ━━━━━ *** ***
 - Layout    ━━━━━ *** ***
 - Wallpaper ━━━━━ *** *** </br>
-</br>
+
 **Rooted Required**
 - Shutdown  ━━━━━  *** ***
 - Reboot    ━━━━━ *** ***
