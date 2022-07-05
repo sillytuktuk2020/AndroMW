@@ -23,7 +23,7 @@
 
 ------------------------------------------
 Android MW Command Cheet Sheet
-------------------------------------------
+
 - Silent    ━━━━━ ***AM Silent***
 - Normal    ━━━━━ ***AM Normal***
 - Wifi On   ━━━━━ ***AM Wifi On***
