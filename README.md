@@ -23,25 +23,26 @@
 
 ------------------------------------------
 Android MW Command Cheet Sheet
-- Silent  ***AM Silent***
-- Normal  ***AM Normal***
-- Wifi On ***AM Silent***
-- Wifi Off *** ***
-- BLuetooth On *** ***
-- Bluetooth Off *** ***
-- Flash On *** ***
-- Flash Off *** ***
-- Wifiname *** ***
-- Gps *** ***
-- Ip *** ***
-- Toast *** *** 
-- Notification *** ***
-- Sms *** *** 
-- Sound *** ***
-- Layout *** ***
-- Wallpaper *** *** </br>
+- Silent    ━━━━━ ***AM Silent***
+- Normal    ━━━━━ ***AM Normal***
+- Wifi On   ━━━━━ ***AM Silent***
+- Wifi Off  ━━━━━ *** ***
+- BLuetooth ━━━━━ On *** ***
+- Bluetooth ━━━━━ Off *** ***
+- Flash On  ━━━━━ *** ***
+- Flash Off ━━━━━ *** ***
+- Wifiname  ━━━━━ *** ***
+- Gps       ━━━━━ *** ***
+- Ip        ━━━━━ *** ***
+- Toast     ━━━━━ *** *** 
+- Notification ━━━━━ *** ***
+- Sms       ━━━━━ *** *** 
+- Sound     ━━━━━ *** ***
+- Layout    ━━━━━ *** ***
+- Wallpaper ━━━━━ *** *** </br>
+</br>
 **Rooted Required**
-- Shutdown *** ***
-- Reboot *** ***
+- Shutdown  ━━━━━  *** ***
+- Reboot    ━━━━━ *** ***
 
 ------------------------------------------
