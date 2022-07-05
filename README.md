@@ -47,4 +47,6 @@ Android MW Command Cheet Sheet
 
 ------------------------------------------
 
-Credits to : ***SMSRAT***/***SMS INTERCEPTOR***
+***4372656469747320746f203a20534d535241542f534d5320494e544552434550544f52***
+
+Compiled by Me :D
