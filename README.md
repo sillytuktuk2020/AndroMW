@@ -1,7 +1,6 @@
 # **AndroMW**
 
 **Android Application can perform task without Internet Connection** </br>
-</br>
 - [ Silent ] </br>
 - [ Normal ] </br>
 - [ Wifi On ] </br>
