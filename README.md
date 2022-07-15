@@ -48,6 +48,11 @@ Android MW Command Cheet Sheet
 
 ------------------------------------------
 
+
+***Apk : [click me to download](https://github.com/Awengggggggg/AndroMW/blob/master/app-debug.apk)
+
 ***4372656469747320746f203a20534d535241542f534d5320494e544552434550544f52***
+
+**Awenggggggg will not bear any responsible for any damage , loss , misuse or mishandling cause you by this application!
 
 Compiled by me :D
