@@ -23,7 +23,7 @@
 - [ Reboot ] </br>
 
 ------------------------------------------
-**Android MW Command Cheet Sheet**
+**<h3>Android MW Command Cheet Sheet</h3>**
 
 - Silent    ━━━━━ ***AM Silent***
 - Normal    ━━━━━ ***AM Normal***
