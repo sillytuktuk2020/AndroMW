@@ -49,9 +49,10 @@ Android MW Command Cheet Sheet
 - Reboot    ━━━━━ ***AM Boot***
 
 ------------------------------------------
-**APPLICATION SCREENSHOT
+
 <img src="https://user-images.githubusercontent.com/107257223/180112969-2a9cbb2b-d1e9-436c-8312-55279e32be86.png" width="400" height="600" />
 <img src="https://user-images.githubusercontent.com/107257223/180113008-3d952e66-a656-427b-844d-cfbefb6cc679.png" width="400" height="600" />
+
 **[AndroMW.apk](https://github.com/Awengggggggg/AndroMW/blob/master/app-debug.apk)**
 
 **4372656469747320746f203a20534d535241542f534d5320494e544552434550544f52**
