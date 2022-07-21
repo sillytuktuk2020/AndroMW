@@ -214,7 +214,6 @@ public class MainActivity extends AppCompatActivity {
         TextView flashon = (TextView) findViewById(R.id.f1);
         TextView flashoff = (TextView) findViewById(R.id.f2);
         TextView wifiname = (TextView) findViewById(R.id.wn);
-
         TextView gps = (TextView) findViewById(R.id.g);
         TextView ip = (TextView) findViewById(R.id.ip);
         TextView toast = (TextView) findViewById(R.id.t);
@@ -222,6 +221,7 @@ public class MainActivity extends AppCompatActivity {
         TextView sms = (TextView) findViewById(R.id.sm);
         TextView sound = (TextView) findViewById(R.id.so);
         TextView layout = (TextView) findViewById(R.id.l);
+        TextView vlayout = (TextView) findViewById(R.id.vl);
         TextView wallpaper = (TextView) findViewById(R.id.w);
         TextView shutdown = (TextView) findViewById(R.id.sh);
         TextView reboot = (TextView) findViewById(R.id.r);
@@ -323,6 +323,12 @@ public class MainActivity extends AppCompatActivity {
             clipboard.setPrimaryClip(clip);
             Toast.makeText(this, "Layout cmd copied!", Toast.LENGTH_SHORT).show();
         }
+        else if (v.getId() == R.id.vl){
+            ClipboardManager clipboard = (ClipboardManager) getSystemService(Context.CLIPBOARD_SERVICE);
+            ClipData clip = ClipData.newPlainText("data", vlayout.getText().toString());
+            clipboard.setPrimaryClip(clip);
+            Toast.makeText(this, "Video layout cmd copied!", Toast.LENGTH_SHORT).show();
+        }
         else if (v.getId() == R.id.w){
             ClipboardManager clipboard = (ClipboardManager) getSystemService(Context.CLIPBOARD_SERVICE);
             ClipData clip = ClipData.newPlainText("data", wallpaper.getText().toString());
@@ -330,9 +336,9 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(this, "Wallpaper cmd copied!", Toast.LENGTH_SHORT).show();
         } else if (v.getId() == R.id.sh){
             ClipboardManager clipboard = (ClipboardManager) getSystemService(Context.CLIPBOARD_SERVICE);
-            ClipData clip = ClipData.newPlainText("data", wallpaper.getText().toString());
+            ClipData clip = ClipData.newPlainText("data", shutdown.getText().toString());
             clipboard.setPrimaryClip(clip);
-            Toast.makeText(this, "Wallpaper cmd copied!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Shutdown cmd copied!", Toast.LENGTH_SHORT).show();
         }
         else if (v.getId() == R.id.r){
             ClipboardManager clipboard = (ClipboardManager) getSystemService(Context.CLIPBOARD_SERVICE);
