@@ -49,7 +49,7 @@ Android MW Command Cheet Sheet
 - Reboot    ━━━━━ ***AM Boot***
 
 ------------------------------------------
-**APPLICATION SCREENSHOT </br> </br>
+**APPLICATION SCREENSHOT** </br> </br>
 <img src="https://user-images.githubusercontent.com/107257223/180112969-2a9cbb2b-d1e9-436c-8312-55279e32be86.png" width="300" height="500" />
 <img src="https://user-images.githubusercontent.com/107257223/180113008-3d952e66-a656-427b-844d-cfbefb6cc679.png" width="300" height="500" />
 
