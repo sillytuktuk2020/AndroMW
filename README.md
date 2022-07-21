@@ -17,6 +17,7 @@
 - [ Sms ] </br>
 - [ Sound ] </br>
 - [ Toast Layout (Image) ] </br>
+- [ Toast Layout (Video) ] </br>
 - [ Wallpaper ] </br>
 - [ Shutdown ] </br>
 - [ Reboot ] </br>
@@ -40,6 +41,7 @@ Android MW Command Cheet Sheet
 - Sms       ━━━━━ ***AM Sms@x@number@x@message*** 
 - Sound     ━━━━━ ***AM Sound***
 - Layout    ━━━━━ ***AM Layout***
+- Layout Video    ━━━━━ ***AM Video***
 - Wallpaper ━━━━━ ***AM Wallpaper*** </br>
 
 **Rooted Required**
